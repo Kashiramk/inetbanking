@@ -1,0 +1,68 @@
+2021-07-22 16:10:19 INFO  ebanking:16 - url opened
+2021-07-22 16:10:20 INFO  ebanking:20 - Entered username
+2021-07-22 16:10:20 INFO  ebanking:23 - entered Password
+2021-07-22 16:10:21 INFO  ebanking:29 - login test pass
+2021-07-22 18:03:50 INFO  ebanking:16 - url opened
+2021-07-22 18:03:52 INFO  ebanking:20 - Entered username
+2021-07-22 18:03:53 INFO  ebanking:23 - entered Password
+2021-07-22 18:03:55 INFO  ebanking:29 - login test pass
+2021-07-22 18:04:48 INFO  ebanking:16 - url opened
+2021-07-22 18:04:48 INFO  ebanking:20 - Entered username
+2021-07-22 18:04:48 INFO  ebanking:23 - entered Password
+2021-07-22 18:04:50 INFO  ebanking:29 - login test pass
+2021-07-23 13:06:33 INFO  ebanking:16 - url opened
+2021-07-23 13:06:37 INFO  ebanking:20 - Entered username
+2021-07-23 13:06:37 INFO  ebanking:23 - entered Password
+2021-07-23 13:06:41 INFO  ebanking:29 - login test pass
+2021-07-23 13:32:40 INFO  ebanking:16 - url opened
+2021-07-23 13:32:40 INFO  ebanking:20 - Entered username
+2021-07-23 13:32:40 INFO  ebanking:23 - entered Password
+2021-07-23 13:32:44 INFO  ebanking:29 - login test pass
+2021-07-23 13:33:33 INFO  ebanking:16 - url opened
+2021-07-23 13:33:33 INFO  ebanking:20 - Entered username
+2021-07-23 13:33:34 INFO  ebanking:23 - entered Password
+2021-07-23 13:33:42 INFO  ebanking:29 - login test pass
+2021-07-23 14:13:25 INFO  ebanking:19 - url opened
+2021-07-23 14:13:30 INFO  ebanking:23 - Entered username
+2021-07-23 14:13:30 INFO  ebanking:26 - entered Password
+2021-07-23 14:15:04 INFO  ebanking:18 - url opened
+2021-07-23 14:15:06 INFO  ebanking:22 - Entered username
+2021-07-23 14:15:06 INFO  ebanking:25 - entered Password
+2021-07-23 14:16:01 INFO  ebanking:18 - url opened
+2021-07-23 14:16:03 INFO  ebanking:22 - Entered username
+2021-07-23 14:16:03 INFO  ebanking:25 - entered Password
+2021-07-24 13:56:03 INFO  ebanking:18 - url opened
+2021-07-24 13:56:05 INFO  ebanking:22 - Entered username
+2021-07-24 13:56:06 INFO  ebanking:25 - entered Password
+2021-07-24 13:56:09 INFO  ebanking:31 - login test pass
+2021-07-24 13:56:37 INFO  ebanking:18 - url opened
+2021-07-24 13:56:38 INFO  ebanking:22 - Entered username
+2021-07-24 13:56:38 INFO  ebanking:25 - entered Password
+2021-07-24 13:56:39 INFO  ebanking:31 - login test pass
+2021-07-24 13:57:05 INFO  ebanking:18 - url opened
+2021-07-24 13:57:05 INFO  ebanking:22 - Entered username
+2021-07-24 13:57:05 INFO  ebanking:25 - entered Password
+2021-07-24 13:57:06 INFO  ebanking:31 - login test pass
+2021-07-24 14:03:12 INFO  ebanking:18 - url opened
+2021-07-24 14:03:13 INFO  ebanking:22 - Entered username
+2021-07-24 14:03:13 INFO  ebanking:25 - entered Password
+2021-07-26 13:03:28 INFO  ebanking:18 - url opened
+2021-07-26 13:03:29 INFO  ebanking:22 - Entered username
+2021-07-26 13:03:29 INFO  ebanking:25 - entered Password
+2021-07-26 13:03:30 INFO  ebanking:31 - login test pass
+2021-07-26 13:04:40 INFO  ebanking:18 - url opened
+2021-07-26 13:04:40 INFO  ebanking:22 - Entered username
+2021-07-26 13:04:40 INFO  ebanking:25 - entered Password
+2021-07-26 13:04:42 INFO  ebanking:31 - login test pass
+2021-07-26 14:02:17 INFO  ebanking:18 - url opened
+2021-07-26 14:02:19 INFO  ebanking:22 - Entered username
+2021-07-26 14:02:19 INFO  ebanking:25 - entered Password
+2021-07-26 14:02:22 INFO  ebanking:31 - login test pass
+2021-07-26 14:05:03 INFO  ebanking:18 - url opened
+2021-07-26 14:05:03 INFO  ebanking:22 - Entered username
+2021-07-26 14:05:03 INFO  ebanking:25 - entered Password
+2021-07-26 14:05:13 INFO  ebanking:31 - login test pass
+2021-07-26 16:54:04 INFO  ebanking:18 - url opened
+2021-07-26 16:54:06 INFO  ebanking:22 - Entered username
+2021-07-26 16:54:06 INFO  ebanking:25 - entered Password
+2021-07-26 16:54:08 INFO  ebanking:31 - login test pass
